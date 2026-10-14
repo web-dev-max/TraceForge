@@ -1,4 +1,4 @@
-package com.traceforge;
+package com.traceforge.event;
 
 import jakarta.validation.constraints.NotBlank;
 
